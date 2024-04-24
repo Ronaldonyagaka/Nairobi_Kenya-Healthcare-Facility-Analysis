@@ -64,8 +64,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 
 **Authors:** Ronald Ongori Nyagaka, Florence Nguuni
 
-** Contact Information:** [Ronald's GitHub](https://github.com/Ronaldonyagaka)                                                                                
-** Contact Information:** [Florence's GitHub](https://github.com/FirenziaF/FirenziaF)                                                                                                                                                                                                                           
+**Contact Information:** [Ronald's GitHub](https://github.com/Ronaldonyagaka)                                                                                
+**Contact Information:** [Florence's GitHub](https://github.com/FirenziaF/FirenziaF)                                                                                                                                                                                                                           
   
   
   
